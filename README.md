@@ -16,7 +16,6 @@ Complete Ethereum wallet implementation and utilities in JavaScript.
 
 **NOTE: This is still very beta; please only use it on the testnet for now, or with VERY small amounts of ether on the livenet that you are willing to lose due to bugs.**
 
-
 Installing
 ----------
 
