@@ -36,6 +36,7 @@ API
 ---
 
 
+
 ### Wallet API
 
 An *Ethereum* wallet wraps a cryptographic private key, which is used to sign transactions and control the ether located at the wallet's address. These transactions can then be broadcast to the *Ethereum* network.
